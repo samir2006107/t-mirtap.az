@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <title>Usta Əlavə Et</title>
+</head>
+<body>
+  <h2>Yeni Usta Əlavə Et</h2>
+  <form>
+    <input type="text" placeholder="Ad Soyad"><br>
+    <input type="text" placeholder="Sahə (məs: Elektrik)"><br>
+    <input type="text" placeholder="Şəhər"><br>
+    <input type="tel" placeholder="Telefon"><br>
+    <button type="submit">Əlavə et</button>
+  </form>
+</body>
+</html>

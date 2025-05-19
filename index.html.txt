@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <title>TəmiriTap</title>
+</head>
+<body>
+  <h1>🏠 TəmiriTap.az</h1>
+  <h2>Populyar Ustalar</h2>
+  <ul>
+    <li>Namiq - Santexnik - Bakı - 0514324565</li>
+    <li>Vüsal - Elektrik - Bakı - 0503431225</li>
+  </ul>
+  <a href="add.html">➕ Usta Əlavə Et</a> | 
+  <a href="review.html">⭐ Rəy Yaz</a>
+</body>
+</html>

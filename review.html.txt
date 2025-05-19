@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <title>Rəy Yaz</title>
+</head>
+<body>
+  <h2>Usta Haqqında Rəy</h2>
+  <form>
+    <input type="text" placeholder="Ustanın adı"><br>
+    <input type="number" min="1" max="5" placeholder="Ulduz (1-5)"><br>
+    <textarea placeholder="Rəy yaz..."></textarea><br>
+    <button type="submit">Göndər</button>
+  </form>
+</body>
+</html>
